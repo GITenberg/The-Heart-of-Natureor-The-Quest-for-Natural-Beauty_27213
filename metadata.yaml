@@ -1,0 +1,33 @@
+_repo: The-Heart-of-Natureor-The-Quest-for-Natural-Beauty_27213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Younghusband, Francis Edward, Sir
+    aliases:
+    - Younghusband, Sir Francis Edward
+    - Younghusband, Frank E.
+    birthdate: 1863
+    deathdate: 1942
+    gutenberg_agent_id: '32545'
+    url: http://www.gutenberg.org/2009/agents/32545
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Younghusband
+description: ''
+gutenberg_issued: '2008-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27213'
+  lccn: '22000846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature (Aesthetics)'
+- !lcc 'QH'
+- !lcsh 'Himalaya Mountains -- Description and travel'
+- !lcsh 'Natural history -- Himalaya Mountains'
+title: The Heart of Nature; or, The Quest for Natural Beauty
+url: http://www.gutenberg.org/ebooks/27213
